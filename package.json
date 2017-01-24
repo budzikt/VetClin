@@ -1,0 +1,19 @@
+{
+  "name": "vetclin",
+  "version": "0.0.1",
+  "description": "Modern web technologies to handle veterynary clinc",
+  "main": "index.js",
+  "scripts": {
+    "test": "runtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/budzikt/VetClin.git"
+  },
+  "author": "budzikt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/budzikt/VetClin/issues"
+  },
+  "homepage": "https://github.com/budzikt/VetClin#readme"
+}
